@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/login-app/static/css/main.2b41f471.chunk.css",
+    "main.js": "/login-app/static/js/main.0a1047a0.chunk.js",
+    "main.js.map": "/login-app/static/js/main.0a1047a0.chunk.js.map",
+    "runtime-main.js": "/login-app/static/js/runtime-main.be328c79.js",
+    "runtime-main.js.map": "/login-app/static/js/runtime-main.be328c79.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/login-app/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.8de66255.chunk.js": "/login-app/static/js/2.8de66255.chunk.js",
+    "static/js/2.8de66255.chunk.js.map": "/login-app/static/js/2.8de66255.chunk.js.map",
+    "index.html": "/login-app/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/login-app/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.2b41f471.chunk.css.map": "/login-app/static/css/main.2b41f471.chunk.css.map",
+    "static/js/2.8de66255.chunk.js.LICENSE.txt": "/login-app/static/js/2.8de66255.chunk.js.LICENSE.txt",
+    "static/media/dot.dc43eb69.svg": "/login-app/static/media/dot.dc43eb69.svg",
+    "static/media/round.2028e983.svg": "/login-app/static/media/round.2028e983.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be328c79.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.8de66255.chunk.js",
+    "static/css/main.2b41f471.chunk.css",
+    "static/js/main.0a1047a0.chunk.js"
+  ]
+}
